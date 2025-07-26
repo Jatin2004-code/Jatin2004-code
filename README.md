@@ -1,66 +1,97 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jatin2004-code/Jatin2004-code/main/assets/header.png" alt="Header Banner"/>
-</p>
+<div id="header" align="center">
 
-<!-- Social Media Badges -->
+  <h1 align="center">Hi 👋, I'm Jatin Kanojiya</h1>
+  <h3 align="center">A passionate Software Developer from India, building the future one line of code at a time.</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=Aspiring+Software+Developer;Full-Stack+Enthusiast;Always+Learning+New+Things;React.js+%26+Java+Developer" alt="Typing Animation" />
+</div>
+
+<!-- Social & Profile Links -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/jatin-kanojiya-72a11331b/">
+  <a href="https://www.linkedin.com/in/jatin-kanojiya-72a11331b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="mailto:jatinkanoujiya8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
 
 ---
 
-### <p align="center">👋 Hey there! I'm Jatin Kanojiya.</p>
+### 👨‍💻 About Me
 
-<p align="center">
-  <em>A final-year Computer Engineering student at LTCOE, passionate about building robust software and web applications. 🚀</em>
-  <br/>
-  <br/>
-  🎓 I'm on a journey to become a skilled Software Developer, with a strong foundation in DSA and a love for solving real-world problems.
-  <br/>
-  💡 I enjoy turning complex ideas into elegant, user-friendly applications using Java and the MERN stack.
-  <br/>
-  🤝 Looking to collaborate on exciting projects and always open to new opportunities. Let's build something amazing together!
-</p>
-
----
-
-### 🚀 My Tech Stack & Tools
-
-<p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+```yaml
+name: Jatin Kanojiya
+role: Software Developer | Full-Stack Enthusiast
+education:
+  - B.E. in Computer Engineering @ Lokmanya Tilak College of Engineering
+skills:
+  - Full-Stack Web Development
+  - DSA & Problem Solving
+  - REST API Development
+learning:
+  - Spring Boot Backend
+  - Clean Architecture & Scalable Systems
+seeking:
+  - Internships / Full-time roles in Software Development
+```
 
 ---
 
-### 📈 My GitHub Stats
+### 🛠️ Skills & Tech Stack
+
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      React, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      Java, Spring Boot, Node.js, Express.js
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      MongoDB, MySQL
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      C++, Java, JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td>
+      Git, GitHub, Figma, Postman, VS Code
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎨 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Weather App](https://github.com/Jatin2004-code/weather-app) | Real-time weather app with OpenWeather API | React, Tailwind CSS, Axios |
+| [Portfolio Website](https://github.com/Jatin2004-code/portfolio) | My personal portfolio site | React, Tailwind, Framer Motion |
+| [ToDo Manager](https://github.com/Jatin2004-code/todo-app) | CRUD-based ToDo app | MERN Stack |
+
+---a
+
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jatin2004-code&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="Jatin's GitHub Stats" />
-  <br/><br/>
-  <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=Jatin2004-code&theme=dracula&hide_border=true" alt="Jatin's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jatin2004-code&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Jatin's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jatin2004-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Jatin2004-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -68,5 +99,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jatin2004-code&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jatin2004-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jatin2004-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
