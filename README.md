@@ -1,7 +1,7 @@
 <div id="header" align="center">
 
   <h1 align="center">Hi 👋, I'm Jatin Kanojiya</h1>
-  <h3 align="center">A passionate Software Developer from India, building the future one line of code at a time.</h3>
+  <h3 align="center">Software Developer | Crafting Code, Building Solutions | DSA Enthusiast</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=Aspiring+Software+Developer;Full-Stack+Enthusiast;Always+Learning+New+Things;React.js+%26+Java+Developer" alt="Typing Animation" />
 </div>
 
@@ -80,13 +80,13 @@ seeking:
   <tr>
     <td><strong>Languages</strong></td>
     <td>
-      C++, Java, JavaScript
+       Java, Python , JavaScript
     </td>
   </tr>
   <tr>
     <td><strong>Tools & Platforms</strong></td>
     <td>
-      Git, GitHub, Figma, Postman, VS Code
+      Git, GitHub, Gemini, Terminal, VS Code
     </td>
   </tr>
 </table>
@@ -123,13 +123,13 @@ Here are some of the projects I'm proud of.
       <td><b>☀️ Weather App</b></td>
       <td>A sleek React app providing live weather information with a clean, minimal UI.</td>
       <td>React, Bootstrap, Weather API</td>
-      <td><a href="https://github.com/Jatin2004-code/Weather-App"><b>View Code</b></a></td>
+      <td><a href="https://jatin2004-code.github.io/Weather-App"/><b>View Code</b></a></td>
     </tr>
      <tr>
       <td><b>📝 E-Notes Website</b></td>
       <td>A responsive website for students to easily share and download notes.</td>
       <td>HTML, CSS, JavaScript</td>
-      <td><a href="https://github.com/Jatin2004-code/E-Notes-Website"><b>View Code</b></a></td>
+      <td><a href="https://sites.google.com/view/enotez/home"><b>View Code</b></a></td>
     </tr>
   </tbody>
 </table>
@@ -139,25 +139,21 @@ Here are some of the projects I'm proud of.
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jatin2004-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jatin2004-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" height="150" alt="Jatin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin2004-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B" height="150" alt="Jatin's Most Used Languages" />
+</div>
 
-</p>
+---
+
+<div align="center">
+  <h2>🔥 GitHub Streak</h2>
+  <img src="https://streak-stats.demolab.com?user=Jatin2004-code&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" height="150" alt="Jatin's GitHub Streak Stats" />
+</div>
 
 ---
 
-
-### 🤝 Let's Connect!
-
-<p align="center">
-  <em>I'm always open to connecting with fellow developers and tech enthusiasts. Let's build something amazing together!</em>
-  <br><br>
-  <a href="https://www.linkedin.com/in/jatin-kanojiya-72a11331b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
-  <a href="mailto:jatinkanoujiya8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 
@@ -171,3 +167,14 @@ Here are some of the projects I'm proud of.
 
 ---
 
+### 🤝 Let's Connect!
+
+<p align="center">
+  <em>I'm always open to connecting with fellow developers and tech enthusiasts. Let's build something amazing together!</em>
+  <br><br>
+  <a href="https://www.linkedin.com/in/jatin-kanojiya-72a11331b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/javadev_jatin/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:jatinkanoujiya8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
