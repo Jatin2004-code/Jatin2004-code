@@ -111,25 +111,25 @@ Here are some of the projects I'm proud of.
       <td><b>🌾 AgriTech Hub</b></td>
       <td>A full-stack MERN platform connecting farmers and buyers for agriculture solutions.</td>
       <td>React, Node.js, MongoDB</td>
-      <td><a href="https://github.com/Jatin2004-code/AgriTech-Hub"><b>View Code</b></a></td>
+      <td><a href="https://github.com/Jatin2004-code/AgriTech-Hub"><b>View</b></a></td>
     </tr>
     <tr>
       <td><b>☕ Canteen Management System</b></td>
       <td>Robust order management and billing software for faster service in canteens.</td>
       <td>Java, MySQL</td>
-      <td><a href="https://github.com/Jatin2004-code/Canteen-Management-System"><b>View Code</b></a></td>
+      <td><a href="https://github.com/Jatin2004-code/Canteen-Management-System"><b>View</b></a></td>
     </tr>
     <tr>
       <td><b>☀️ Weather App</b></td>
       <td>A sleek React app providing live weather information with a clean, minimal UI.</td>
       <td>React, Bootstrap, Weather API</td>
-      <td><a href="https://jatin2004-code.github.io/Weather-App"/><b>View Code</b></a></td>
+      <td><a href="https://jatin2004-code.github.io/Weather-App"/><b>View</b></a></td>
     </tr>
      <tr>
       <td><b>📝 E-Notes Website</b></td>
       <td>A responsive website for students to easily share and download notes.</td>
       <td>HTML, CSS, JavaScript</td>
-      <td><a href="https://sites.google.com/view/enotez/home"><b>View Code</b></a></td>
+      <td><a href="https://sites.google.com/view/enotez/home"><b>View</b></a></td>
     </tr>
   </tbody>
 </table>
