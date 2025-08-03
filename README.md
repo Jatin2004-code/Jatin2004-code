@@ -54,7 +54,39 @@ seeking:
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
----
+----
+
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Jatin2004-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Jatin's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin2004-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Jatin's Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jatin2004-code&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" height="155" alt="Jatin's GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin2004-code&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&radius=16" height="300" alt="Jatin's Activity Graph" />
+</p>
+
+</div>
+
+
+
+----------
 
 ### 🌟 Spotlight Projects
 
@@ -98,34 +130,15 @@ Here are some of the projects I'm proud of.
 </table>
 
 
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jatin2004-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" height="150" alt="Jatin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin2004-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B" height="150" alt="Jatin's Most Used Languages" />
-</div>
-
----
-
-<div align="center">
-  <h2>🔥 GitHub Streak</h2>
-  <img src="https://streak-stats.demolab.com?user=Jatin2004-code&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" height="150" alt="Jatin's GitHub Streak Stats" />
-</div>
-
----
-
-
+----------
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jatin2004-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jatin2004-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jatin2004-code&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=Jatin2004-code&label=Profile%20Views&color=bb9af7&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -141,3 +154,5 @@ Here are some of the projects I'm proud of.
 </p>
 
 ---
+
+
