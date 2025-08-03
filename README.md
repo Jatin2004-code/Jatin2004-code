@@ -54,43 +54,6 @@ seeking:
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-
----
-### 🛠️ Skills & Tech Stack
-
-<table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      React, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      Java, Spring Boot, Node.js, Express.js
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      MongoDB, MySQL
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-       Java, Python , JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Platforms</strong></td>
-    <td>
-      Git, GitHub, Gemini, Terminal, VS Code
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 🌟 Spotlight Projects
